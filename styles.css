@@ -1,0 +1,40 @@
+h1{
+    background-color:rgb(255, 213, 0);
+    text-align: center;
+    padding: 50px 0 50px 0;
+    margin-bottom: 0px;
+}
+h2{
+    background-color:black;
+    text-align: center;
+    color:white;
+    padding:20px 0 20px 0;
+    font-size: 20px;
+    margin-top:0px ;
+}
+figcaption {
+    text-align: center;
+    color:white;
+    margin-top: 20px;
+   }
+.image {
+    display:block;
+    background-color:#9c91bf;
+    padding: 20px 100px 40px 90px;
+    margin-left: 460px;
+    margin-right: 400px;
+}
+h3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+ul.nav{
+    text-align: center;
+}    
+footer{
+    background-color: rgb(255, 213, 0);
+    text-align: center;
+    padding: 50px 0 50px 0;
+    margin-bottom: 0px;
+}
